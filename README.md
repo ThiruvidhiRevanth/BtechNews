@@ -18,7 +18,7 @@ BtechNews is a comprehensive app designed for B.Tech students, providing them wi
 
 ### For run in Laptop:
 
-File: [Exe File](window.exe)
+File: [Exe File](BtechNews.exe)
 
 ### For run in Web:
 
