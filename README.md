@@ -29,10 +29,12 @@ Link: [Page Url](https:thiruvidhirevanth.github.io/BtechNews)
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 - Dart SDK: Included with Flutter
 - Android Studio (for Android builds)
-- Xcode (for iOS builds)
 - Visual Studio (for Windows builds)
 
 ## Screenshots
+
+ ### Responsive Mobile
+ 
 
 
 
