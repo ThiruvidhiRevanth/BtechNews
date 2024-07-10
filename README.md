@@ -39,7 +39,8 @@ Link: [Page Url](https:thiruvidhirevanth.github.io/BtechNews)
 
  ### Responsive Pc & Web
 
-![](Screenshots/(45).png) ![](Screenshots/(43).png) ![](Screenshots/(44).png) 
+ ![](Screenshots/7.png)
+![](Screenshots/9.png) ![](Screenshots/10.png) ![](Screenshots/(44).png) 
  
  
 
