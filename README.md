@@ -35,7 +35,7 @@ Link: [Page Url](https:thiruvidhirevanth.github.io/BtechNews)
 
  ### Responsive Mobile
  
-[](ScreenShots/(1).png)
+[](Screenshots/(1).png)
 
 
 
