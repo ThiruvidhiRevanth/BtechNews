@@ -41,6 +41,20 @@ Link: [Page Url](https:thiruvidhirevanth.github.io/BtechNews)
 
  ![](Screenshots/7.png)
 ![](Screenshots/9.png) ![](Screenshots/8.png) 
+
+## Uses
+
+BtechNews can be particularly useful for B.Tech students in the following ways:
+
+1. **Staying Informed**: Keep up with the latest news and trends in technology and engineering, which can be beneficial for coursework, projects, and staying competitive in the field.
+2. **Enhancing Knowledge**: Discover fascinating facts and gain deeper insights into various tech topics that can enrich your understanding and spark curiosity.
+3. **Improving Skills**: Learn practical tricks and techniques that can assist with coding, problem-solving, and other technical skills essential for B.Tech studies.
+4. **Boosting Academic Performance**: Access valuable tips on study strategies, time management, and career advice to excel academically and prepare for future opportunities.
+5. **Convenient Access**: Easily access all this information in one app, saving time and effort compared to searching for resources separately.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
  
  
 
